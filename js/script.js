@@ -78,6 +78,6 @@ ScrollReveal({
     strings: ['Estudiante de Tecnologías de la información', 'Técnico en procesos de Gestión Administrativa'],
     typedSpeed: 100,
     backSpeed: 100,
-    backDelay:1000,
+    backDelay:3000,
     loop:true
   });
