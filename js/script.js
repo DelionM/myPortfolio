@@ -75,7 +75,7 @@ ScrollReveal({
 
   // typed js
   const typed  = new Typed('.multiple-text', {
-    strings: ['Estudiante de Tecnologías de la información', 'Técnico en procesos de Gestión Administrativa'],
+    strings: ['Egresado de la Licenciatura en Tecnologías de la información', 'Técnico en procesos de Gestión Administrativa'],
     typedSpeed: 100,
     backSpeed: 100,
     backDelay:3000,
